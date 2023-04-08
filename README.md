@@ -2,6 +2,10 @@
 
 C++/OpenGL implementation of a simple pendulum.
 
+## Demo
+
+![pendulum_demo](https://user-images.githubusercontent.com/50550999/230705696-2a1923a3-f2ea-4e2e-9353-5fc558262617.gif)
+
 ## Run Locally
 
 Install dependencies
